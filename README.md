@@ -6,8 +6,11 @@ The File Manager is a Python-based project designed to help users efficiently ma
 ## Features:
 
 1. **Directory Operations:** List all files and subdirectories in a directory.
+
 2. **Functionality:** Filter files by extension.
+
 3. **Error Handling:** Graceful handling of missing files, permissions issues, or invalid operations.
+
 4. **Cross-Platform:** Works on Windows, macOS, and Linux systems.
 
 
@@ -20,3 +23,22 @@ The File Manager is a Python-based project designed to help users efficiently ma
 - None (standard libraries are sufficient)
 
 - Optional: argparse (for command-line interface)
+
+
+## Installation:
+
+1. **Clone the repository:**
+
+git clone https://github.com/akashmailar/file-maanger-python-project.git
+cd file-manager
+
+
+2. (Optional) **Create and activate a virtual environment:**
+
+python -m venv env
+source env/bin/activate  # On Windows: env\Scripts\activate
+
+
+3. Install dependencies (if any):
+
+pip install -r requirements.txt
