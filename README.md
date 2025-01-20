@@ -30,7 +30,7 @@ The File Manager is a Python-based project designed to help users efficiently ma
 1. **Clone the repository:**
 
 git clone https://github.com/akashmailar/file-maanger-python-project.git
-cd file-manager
+cd File-Manager-App
 
 2. (Optional) **Create and activate a virtual environment:**
 
